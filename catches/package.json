@@ -1,0 +1,11 @@
+{
+  "name": "catches",
+  "version": "0.1.0",
+  "dependencies": {
+    "bs-platform": "^2.2.3",
+    "raises": "file:../raises"
+  },
+  "scripts": {
+    "build": "bsb -make-world"
+  }
+}
