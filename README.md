@@ -2,7 +2,7 @@ To reproduce:
 
 ```
 git clone https://github.com/aantron/bs-exn-repro.git
-cd catches
+cd bs-exn-repro/catches
 npm install
 npm run build
 node lib/js/catches.js
