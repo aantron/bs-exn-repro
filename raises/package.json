@@ -1,7 +1,7 @@
 {
   "name": "raises",
   "version": "0.1.0",
-  "dependencies": {
+  "peerDependencies": {
     "bs-platform": "^2.2.3"
   },
   "scripts": {
